@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+
+  "bindingAssemblies": [
+  ],
+  "ApiSettings": {
+    "BaseUrl": "https://jsonplaceholder.typicode.com",
+    "Timeout": 30,
+    "AuthToken": "auth-token-here"
+  }
+}
